@@ -1,0 +1,84 @@
+﻿id,total_calls,call_rate,aggressive,proportion_aggressive,mass,svl,date,time,collector,county,population,body_temp,chorus_spl
+hyci_van_1,189,63,73,0.3862,4.7,44.8,6/7/24,2129,KMB,Vanderburgh,expanded,20.8,74
+hyci_van_2,205,68.333,40,0.1951,10.4,55.5,6/7/24,2123,OME,Vanderburgh,expanded,18.3,76.5
+hyci_van_3,277,92.333,24,0.0866,3.9,41.2,6/8/24,2058,KMB,Vanderburgh,expanded,22.2,77
+hyci_van_4,148,49.333,0,0,6.8,48.8,6/7/24,2200,OME,Vanderburgh,expanded,19.1,72.5
+hyci_van_5,232,77.333,0,0,7.7,48.9,6/8/24,2114,KMB,Vanderburgh,expanded,20.8,88
+hyci_van_6,111,37,33,0.29729,5.7,46.3,6/7/24,,OME,Vanderburgh,expanded,18.9,74.7
+hyci_van_7,179,59.666,0,0,7.6,49.9,6/8/24,2126,KMB,Vanderburgh,expanded,21.4,86
+hyci_van_8,109,36.333,89,0.8165,9.7,55.8,6/7/24,,OME,Vanderburgh,expanded,17.5,72.6
+hyci_van_9,19,6.333,19,1,7.4,47.7,6/8/24,2101,OME,Vanderburgh,expanded,22.1,72.6
+hyci_van_10,281,93.666,224,0.79715,11.5,55.7,6/8/24,2052,OME,Vanderburgh,expanded,22.1,67.5
+hyci_van_11,36,12,36,1,6.8,47.6,6/8/24,2121,OME,Vanderburgh,expanded,21.2,72.8
+hyci_van_12,259,86.333,146,0.5637,11.7,57.6,6/8/24,2141,OME,Vanderburgh,expanded,21.9,74.8
+hyci_union_1,308,102.666,0,0,6.1,46.4,6/13/24,2057,KMB,Union,historical,22.7,74
+hyci_union_2,62,20.666,6,0.0967,6.2,48,6/13/24,2045,OME,Union,historical,21.2,65.8
+hyci_union_3,229,76.333,72,0.3144,5.3,46.1,6/13/24,2119,KMB,Union,historical,20.8,82
+hyci_union_4,147,49,13,0.08843,5.7,47.3,6/13/24,2115,OME,Union,historical,22.5,78.4
+hyci_union_5,123,41,35,0.2845,7.3,49.1,6/13/24,2134,KMB,Union,historical,21.4,76
+hyci_union_6,197,65.666,0,0,6.4,49.7,6/13/24,2127,OME,Union,historical,24.1,70.7
+hyci_union_7,139,46.333,0,0,6.8,45.1,6/13/24,2146,KMB,Union,historical,20.3,78
+hyci_union_8,164,54.6667,0,0,9,55.8,6/13/24,2139,OME,Union,historical,21.7,73.6
+hyci_union_9,160,53.333,88,0.55,7.1,50.1,6/13/24,2218,"KMB, OME",Union,historical,20.7,74.2
+hyci_union_10,223,74.333,0,0,7.3,51.1,6/13/24,2153,OME,Union,historical,21.3,75.4
+hyci_alex_1,59,19.666,0,0,9.6,55.5,6/13/24,2400,KMB,Alexander,historical,20.7,78
+hyci_alex_2,335,111.666,0,0,6.8,49,6/14/24,2129,OME,Alexander,historical,26.1,79.2
+hyci_alex_3,214,71.3333,166,0.7757,4.9,45.7,6/14/24,2225,"OME,KMB",Alexander,historical,26.9,79
+hyci_alex_4,299,99.666,0,0,5.4,47.5,6/14/24,2137,OME,Alexander,historical,26.4,71.7
+hyci_alex_5,21,7,0,0,6.3,48.9,6/14/24,2212,"OME, KMB",Alexander,historical,26.3,75.4
+hyci_alex_6,58,19.333,0,0,5.1,46.8,6/14/24,2144,"OME, KMB",Alexander,historical,26.2,76
+hyci_alex_7,89,29.666,11,0.1236,6.4,49.2,6/14/24,2218,"OME, KMB",Alexander,historical,26.4,76
+hyci_alex_8,291,97,15,0.0515,6.9,50.2,6/14/24,2151,"OME, KMB",Alexander,historical,26.7,74
+hyci_alex_9,152,25.333,6,0.03947,6.6,48.8,6/14/24,2223,"OME, KMB",Alexander,historical,26.5,77
+hyci_alex_10,130,43.3333,53,0.4076,8.6,45.9,6/14/24,2157,"OME, KMB",Alexander,historical,25.5,78
+hyci_ball_1,175,58.333,140,0.8,4.6,45.6,6/20/24,2129,KMB,Ballard,historical,28.1,80
+hyci_ball_2,245,81.666,145,0.5918,4.9,45.3,6/20/24,2054,OME,Ballard,historical,26.9,73.6
+hyci_ball_3,186,62,16,0.08602,4.4,42.9,6/20/24,2140,KMB,Ballard,historical,27.3,76
+hyci_ball_4,177,59,15,0.847,4.3,43.2,6/20/24,2103,OME,Ballard,historical,26.8,73.3
+hyci_ball_5,172,57.3333,0,0,4.4,43.8,6/20/24,2149,KMB,Ballard,historical,27,78
+hyci_ball_6,192,64,155,0.8072,4.9,45.2,6/20/24,2112,OME,Ballard,historical,26.8,75.3
+hyci_ball_7,86,28.666,0,0,4.1,42,6/20/24,2200,KMB,Ballard,historical,26.6,79
+hyci_ball_8,157,52.3333,43,0.27388,13.9,58.2,6/20/24,2122,OME,Ballard,historical,25.7,75.1
+hyci_ball_9,209,69.666,21,0.10004,4.2,43.2,6/20/24,2208,KMB,Ballard,historical,26.6,78
+hyci_ball_10,170,56.666,0,0,9.7,55.7,6/20/24,2136,OME,Ballard,historical,27.2,74.5
+hyci_ball_11,116,38.666,0,0,3.6,41,6/20/24,2144,OME,Ballard,historical,28,70.4
+hyci_carl_1,158,52.666,9,0.05696,10.2,54.9,6/21/24,2112,KMB,Carlisle,historical,25.7,69
+hyci_carl_2,160,53.333,39,0.2437,6.9,47.8,6/21/24,2039,OME,Carlisle,historical,26.5,68.6
+hyci_carl_3,251,83.666,116,0.4621,9.6,56.1,6/21/24,2146,KMB,Carlisle,historical,26.6,71
+hyci_carl_4,119,39.666,52,0.4369,7.9,50.2,6/21/24,2047,OME,Carlisle,historical,26.9,64.6
+hyci_carl_5,69,23,0,0,7.7,51.2,6/21/24,2157,KMB,Carlisle,historical,27.4,67
+hyci_carl_6,134,44.666,30,0.2238,6.8,50,6/21/24,2100,OME,Carlisle,historical,26.1,72.5
+hyci_carl_7,113,37.666,0,0,6.5,50,6/21/24,2139,OME,Carlisle,historical,26,77.6
+hyci_carl_8,294,98,40,0.136,5.8,48.6,6/21/24,2117,OME,Carlisle,historical,25.9,67.2
+hyci_carl_9,259,86.333,0,0,6.6,51.9,6/21/24,2146,OME,Carlisle,historical,26.2,83.5
+hyci_carl_10,183,61,7,0.03825,7.1,51.2,6/21/24,2139,OME,Carlisle,historical,27.3,76.8
+hyci_hop_1,49,16.3333,33,0.6734,4.9,46.2,7/2/24,2021,KMB,Hopkins,expanded,23.5,74
+hyci_hop_2,229,76.333,139,0.6069,5.6,47.6,7/2/24,2049,OME,Hopkins,expanded,22.7,75.4
+hyci_hop_3,92,30.666,2,0.0217,7,50.4,7/2/24,2041,KMB,Hopkins,expanded,24.1,82
+hyci_hop_4,79,26.333,79,1,5.4,45.5,7/2/24,2101,OME,Hopkins,expanded,23.4,73.6
+hyci_hop_5,232,77.333,232,1,4.5,45.1,7/2/24,2055,KMB,Hopkins,expanded,23.4,76
+hyci_hop_6,165,55,165,1,5.1,47.8,7/2/24,2109,OME,Hopkins,expanded,23.2,74.8
+hyci_hop_7,20,6.666,20,1,5.4,47.7,7/2/24,2104,KMB,Hopkins,expanded,23.2,72
+hyci_hop_8,130,43.333,113,0.8692,6,48.7,7/2/24,2119,OME,Hopkins,expanded,22.5,76.3
+hyci_hop_9,193,64.333,0,0,5.3,48.1,7/2/24,2118,KMB,Hopkins,expanded,23.4,70
+hyci_hop_10,112,37.3333,6,0.05357,7.9,52.6,7/2/24,2127,OME,Hopkins,expanded,22.3,76.6
+hyci_craw_1,190,63.333,136,0.7157,6.2,48.8,7/3/24,2047,KMB,Crawford,expanded,22.1,80
+hyci_craw_2,178,59.3333,63,0.3539,5.9,48.1,7/3/24,2025,OME,Crawford,expanded,24.2,83.1
+hyci_craw_3,164,54.666,94,0.57317,6.8,49.4,7/3/24,2058,KMB,Crawford,expanded,24,74
+hyci_craw_4,57,19,36,0.66667,6.4,45,7/3/24,2034,OME,Crawford,expanded,23.9,73.6
+hyci_craw_5,185,61.666,45,0.2432,7.3,49.4,7/3/24,2100,KMB,Crawford,expanded,21.7,83
+hyci_craw_6,185,61.666,85,0.4594,6.7,50.4,7/3/24,2041,OME,Crawford,expanded,24.1,73.9
+hyci_craw_7,125,41.666,41,0.328,7,50.7,7/3/24,2109,KMB,Crawford,expanded,24.2,76
+hyci_craw_8,182,60.666,99,0.5439,7.3,50.5,7/3/24,2051,OME,Crawford,expanded,22.9,79.1
+hyci_craw_9,84,28,17,0.2023,6.2,49.6,7/3/24,2140,KMB,Crawford,expanded,21.9,78
+hyci_craw_10,125,41.666,124,0.992,7,52.6,7/3/24,2101,OME,Crawford,expanded,23,71.5
+hyci_web_1,64,21.333,0,0,6.5,47.5,7/6/24,2044,KMB,Webster,expanded,25.6,78
+hyci_web_2,129,43,65,0.50387,9,53.6,7/6/24,2048,OME,Webster,expanded,27.6,76.5
+hyci_web_3,30,10,20,0.66666,7,51.4,7/6/24,2051,KMB,Webster,expanded,24.4,80
+hyci_web_4,216,72,0,0,7.4,51.5,7/6/24,2128,OME,Webster,expanded,24.1,76.1
+hyci_web_5,143,47.666,0,0,8.7,53.5,7/6/24,2113,KMB,Webster,expanded,24.4,81
+hyci_web_6,145,48,0,0,8.7,53,7/6/24,2137,OME,Webster,expanded,22.7,79.1
+hyci_web_7,27,9,10,0.3703,8.6,52.6,7/6/24,2248,OME,Webster,expanded,20.8,73.9
+hyci_web_8,110,36.666,21,0.1909,12,58.5,7/6/24,2254,OME,Webster,expanded,21.6,77.8
+hyci_web_9,61,20.333,10,0.1639,5.5,47.6,7/6/24,2237,"OME, KMB",Webster,expanded,21.4,68.2
+hyci_web_10,120,40,0,0,6.5,49.5,7/6/24,2230,OME,Webster,expanded,22.7,73.9

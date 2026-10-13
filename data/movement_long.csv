@@ -1,0 +1,1135 @@
+ID,Range,Population,SVL,Mass,measure,trial,value
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Latency,1,715.148
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Jumps,1,4
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Exploration,1,277.457
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Numb_exploration_occurances,1,84
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Percent_total_explore,1,15.4
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Floor,1,792.976
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Percent_total_floor,1,44.1
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Latency,2,1078.394
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Jumps,2,3
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Exploration,2,27.761
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Numb_exploration_occurances,2,11
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Percent_total_explore,2,1.5
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Floor,2,1085.685
+Hyci_alex1_exploratory,Historical,Alexander,55.5,9.6,Percent_total_floor,2,60.3
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Latency,1,13.98
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Jumps,1,9
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Exploration,1,322.951
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Numb_exploration_occurances,1,198
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Percent_total_explore,1,17.9
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Floor,1,1151.201
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Percent_total_floor,1,64
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Latency,2,11.545
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Jumps,2,2
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Exploration,2,366.025
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Numb_exploration_occurances,2,179
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Percent_total_explore,2,21.6
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Floor,2,730.53
+Hyci_alex2_exploratory,Historical,Alexander,49,6.8,Percent_total_floor,2,40.6
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Latency,1,2.702
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Jumps,1,4
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Exploration,1,148.182
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Numb_exploration_occurances,1,47
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Percent_total_explore,1,8.2
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Floor,1,493.358
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Percent_total_floor,1,27.4
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Latency,2,4.722
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Jumps,2,9
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Exploration,2,268.369
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Numb_exploration_occurances,2,149
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Percent_total_explore,2,14.9
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Floor,2,238.188
+Hyci_alex3_exploratory,Historical,Alexander,45.7,4.9,Percent_total_floor,2,13.2
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Latency,1,45.578
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Jumps,1,7
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Exploration,1,281.403
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Numb_exploration_occurances,1,136
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Percent_total_explore,1,15.6
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Floor,1,618.366
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Percent_total_floor,1,34.4
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Latency,2,0.899
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Jumps,2,16
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Exploration,2,409.359
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Numb_exploration_occurances,2,292
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Percent_total_explore,2,22.7
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Floor,2,171.438
+Hyci_alex4_exploratory,Historical,Alexander,47.5,5.4,Percent_total_floor,2,9.5
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Latency,1,3.521
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Jumps,1,19
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Exploration,1,408.006
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Numb_exploration_occurances,1,255
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Percent_total_explore,1,2.2
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Floor,1,75.539
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Percent_total_floor,1,0.4
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Latency,2,2.919
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Jumps,2,1
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Exploration,2,60.126
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Numb_exploration_occurances,2,57
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Percent_total_explore,2,5.4
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Floor,2,3.82
+Hyci_alex5_exploratory,Historical,Alexander,48.9,6.3,Percent_total_floor,2,0.3
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Latency,1,41.191
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Jumps,1,5
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Exploration,1,37.667
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Numb_exploration_occurances,1,73
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Percent_total_explore,1,2.2
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Floor,1,66.016
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Percent_total_floor,1,3.9
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Latency,2,17.835
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Jumps,2,5
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Exploration,2,895.795
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Numb_exploration_occurances,2,200
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Percent_total_explore,2,49.8
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Floor,2,35.435
+Hyci_alex6_exploratory,Historical,Alexander,46.8,5.1,Percent_total_floor,2,2
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Latency,1,1800
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Jumps,1,0
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Exploration,1,0
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Numb_exploration_occurances,1,0
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Percent_total_explore,1,0
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Floor,1,1800
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Percent_total_floor,1,100
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Latency,2,48.176
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Jumps,2,3
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Exploration,2,466.038
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Numb_exploration_occurances,2,413
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Percent_total_explore,2,25.9
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Floor,2,48.065
+Hyci_alex7_exploratory,Historical,Alexander,49.2,6.4,Percent_total_floor,2,2.7
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Latency,1,6.523
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Jumps,1,2
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Exploration,1,23.307
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Numb_exploration_occurances,1,33
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Percent_total_explore,1,1.3
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Floor,1,6.623
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Percent_total_floor,1,0.4
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Latency,2,31.064
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Jumps,2,1
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Exploration,2,1.435
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Numb_exploration_occurances,2,4
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Percent_total_explore,2,0.1
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Floor,2,31.832
+Hyci_alex8_exploratory,Historical,Alexander,50.2,6.9,Percent_total_floor,2,1.8
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Latency,1,3.337
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Jumps,1,4
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Exploration,1,196.294
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Numb_exploration_occurances,1,254
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Percent_total_explore,1,10.9
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Floor,1,568.985
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Percent_total_floor,1,31.6
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Latency,2,89.506
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Jumps,2,0
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Exploration,2,12.712
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Numb_exploration_occurances,2,21
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Percent_total_explore,2,0.7
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Floor,2,1812.596
+Hyci_alex9_exploratory,Historical,Alexander,48.8,6.6,Percent_total_floor,2,100
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Latency,1,11.595
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Jumps,1,3
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Exploration,1,155.837
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Numb_exploration_occurances,1,160
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Percent_total_explore,1,8.7
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Floor,1,516.667
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Percent_total_floor,1,28.7
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Latency,2,17.067
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Jumps,2,0
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Exploration,2,29.275
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Numb_exploration_occurances,2,36
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Percent_total_explore,2,1.6
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Floor,2,1609.793
+Hyci_ball1_exploratory,Historical,Ballard,45.6,4.6,Percent_total_floor,2,89.4
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Latency,1,7.057
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Jumps,1,9
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Exploration,1,95.796
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Numb_exploration_occurances,1,100
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Percent_total_explore,1,5.3
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Floor,1,227.345
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Percent_total_floor,1,12.6
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Latency,2,127.161
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Jumps,2,5
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Exploration,2,38.039
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Numb_exploration_occurances,2,58
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Percent_total_explore,2,2.1
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Floor,2,1130.948
+Hyci_ball2_exploratory,Historical,Ballard,45.3,4.9,Percent_total_floor,2,62.8
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Latency,1,31.515
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Jumps,1,10
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Exploration,1,111.901
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Numb_exploration_occurances,1,184
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Percent_total_explore,1,6.2
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Floor,1,162.996
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Percent_total_floor,1,9.1
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Latency,2,62.462
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Jumps,2,3
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Exploration,2,141.956
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Numb_exploration_occurances,2,226
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Percent_total_explore,2,7.9
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Floor,2,90.44
+Hyci_ball3_exploratory,Historical,Ballard,42.9,4.4,Percent_total_floor,2,5
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Latency,1,32.766
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Jumps,1,9
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Exploration,1,96.681
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Numb_exploration_occurances,1,230
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Percent_total_explore,1,5.4
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Floor,1,575.327
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Percent_total_floor,1,32
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Latency,2,31.882
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Jumps,2,8
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Exploration,2,176.52
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Numb_exploration_occurances,2,408
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Percent_total_explore,2,9.8
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Floor,2,126.058
+Hyci_ball4_exploratory,Historical,Ballard,43.2,4.3,Percent_total_floor,2,7
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Latency,1,35.753
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Jumps,1,5
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Exploration,1,248.734
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Numb_exploration_occurances,1,267
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Percent_total_explore,1,13.8
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Floor,1,140.774
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Percent_total_floor,1,7.8
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Latency,2,4.721
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Jumps,2,1
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Exploration,2,146.342
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Numb_exploration_occurances,2,318
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Percent_total_explore,2,8.1
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Floor,2,375.408
+Hyci_ball5_exploratory,Historical,Ballard,43.8,4.4,Percent_total_floor,2,20.9
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Latency,1,33.467
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Jumps,1,6
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Exploration,1,93.129
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Numb_exploration_occurances,1,160
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Percent_total_explore,1,5.2
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Floor,1,321.621
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Percent_total_floor,1,17.9
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Latency,2,6.39
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Jumps,2,11
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Exploration,2,152.334
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Numb_exploration_occurances,2,323
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Percent_total_explore,2,8.5
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Floor,2,201.068
+Hyci_ball6_exploratory,Historical,Ballard,45.2,4.9,Percent_total_floor,2,11.2
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Latency,1,5.438
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Jumps,1,1
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Exploration,1,20.436
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Numb_exploration_occurances,1,29
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Percent_total_explore,1,1.1
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Floor,1,291.808
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Percent_total_floor,1,16.2
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Latency,2,1800
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Jumps,2,0
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Exploration,2,0
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Numb_exploration_occurances,2,0
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Percent_total_explore,2,0
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Floor,2,1800
+Hyci_ball7_exploratory,Historical,Ballard,42,4.1,Percent_total_floor,2,100
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Latency,1,935.218
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Jumps,1,1
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Exploration,1,25.238
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Numb_exploration_occurances,1,81
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Percent_total_explore,1,1.4
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Floor,1,1178.978
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Percent_total_floor,1,65.5
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Latency,2,15.716
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Jumps,2,1
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Exploration,2,20.219
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Numb_exploration_occurances,2,61
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Percent_total_explore,2,1.1
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Floor,2,474.591
+Hyci_ball8_exploratory,Historical,Ballard,58.2,13.9,Percent_total_floor,2,26.4
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Latency,1,7.975
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Jumps,1,14
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Exploration,1,80.103
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Numb_exploration_occurances,1,256
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Percent_total_explore,1,4.5
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Floor,1,62.529
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Percent_total_floor,1,3.5
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Latency,2,270.187
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Jumps,2,2
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Exploration,2,3.684
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Numb_exploration_occurances,2,12
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Percent_total_explore,2,0.2
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Floor,2,497.832
+Hyci_ball9_exploratory,Historical,Ballard,43.2,4.2,Percent_total_floor,2,27.7
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Latency,1,63.58
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Jumps,1,0
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Exploration,1,0.751
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Numb_exploration_occurances,1,3
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Percent_total_explore,1,0.04
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Floor,1,1800
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Percent_total_floor,1,100
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Latency,2,93.877
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Jumps,2,0
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Exploration,2,11.077
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Numb_exploration_occurances,2,24
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Percent_total_explore,2,0.61
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Floor,2,1800
+Hyci_ball10_exploratory,Historical,Ballard,55.7,9.7,Percent_total_floor,2,100
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Latency,1,6.239
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Jumps,1,13
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Exploration,1,82.676
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Numb_exploration_occurances,1,234
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Percent_total_explore,1,4.6
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Floor,1,914.334
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Percent_total_floor,1,50.8
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Latency,2,1800
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Jumps,2,0
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Exploration,2,0
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Numb_exploration_occurances,2,0
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Percent_total_explore,2,0
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Floor,2,1800
+Hyci_ball11_exploratory,Historical,Ballard,41,3.6,Percent_total_floor,2,100
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Latency,1,108.175
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Jumps,1,9
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Exploration,1,67.471
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Numb_exploration_occurances,1,202
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Percent_total_explore,1,3.7
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Floor,1,244.077
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Percent_total_floor,1,13.6
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Latency,2,10.277
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Jumps,2,7
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Exploration,2,130.202
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Numb_exploration_occurances,2,384
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Percent_total_explore,2,7.2
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Floor,2,6.023
+Hyci_union1_exploratory,Historical,Union,46.4,6.1,Percent_total_floor,2,0.3
+Hyci_union2_exploratory,Historical,Union,48,6.2,Latency,1,36.47
+Hyci_union2_exploratory,Historical,Union,48,6.2,Jumps,1,7
+Hyci_union2_exploratory,Historical,Union,48,6.2,Exploration,1,36.156
+Hyci_union2_exploratory,Historical,Union,48,6.2,Numb_exploration_occurances,1,116
+Hyci_union2_exploratory,Historical,Union,48,6.2,Percent_total_explore,1,2
+Hyci_union2_exploratory,Historical,Union,48,6.2,Floor,1,315.983
+Hyci_union2_exploratory,Historical,Union,48,6.2,Percent_total_floor,1,17.6
+Hyci_union2_exploratory,Historical,Union,48,6.2,Latency,2,7.224
+Hyci_union2_exploratory,Historical,Union,48,6.2,Jumps,2,15
+Hyci_union2_exploratory,Historical,Union,48,6.2,Exploration,2,72.275
+Hyci_union2_exploratory,Historical,Union,48,6.2,Numb_exploration_occurances,2,223
+Hyci_union2_exploratory,Historical,Union,48,6.2,Percent_total_explore,2,4
+Hyci_union2_exploratory,Historical,Union,48,6.2,Floor,2,337.038
+Hyci_union2_exploratory,Historical,Union,48,6.2,Percent_total_floor,2,18.7
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Latency,1,51.268
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Jumps,1,15
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Exploration,1,75.337
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Numb_exploration_occurances,1,222
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Percent_total_explore,1,4.2
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Floor,1,263.349
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Percent_total_floor,1,14.6
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Latency,2,1.118
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Jumps,2,10
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Exploration,2,31.159
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Numb_exploration_occurances,2,115
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Percent_total_explore,2,1.7
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Floor,2,93.743
+Hyci_union3_exploratory,Historical,Union,46.1,5.3,Percent_total_floor,2,5.2
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Latency,1,1800
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Jumps,1,0
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Exploration,1,0
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Numb_exploration_occurances,1,0
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Percent_total_explore,1,0
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Floor,1,1800
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Percent_total_floor,1,100
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Latency,2,44.328
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Jumps,2,2
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Exploration,2,14.549
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Numb_exploration_occurances,2,50
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Percent_total_explore,2,0.8
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Floor,2,134.818
+Hyci_union4_exploratory,Historical,Union,47.3,5.7,Percent_total_floor,2,7.5
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Latency,1,13.346
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Jumps,1,9
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Exploration,1,44.778
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Numb_exploration_occurances,1,111
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Percent_total_explore,1,2.5
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Floor,1,717.503
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Percent_total_floor,1,39.9
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Latency,2,13.247
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Jumps,2,9
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Exploration,2,127.604
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Numb_exploration_occurances,2,332
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Percent_total_explore,2,7.1
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Floor,2,142.442
+Hyci_union5_exploratory,Historical,Union,49.1,7.3,Percent_total_floor,2,7.9
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Latency,1,37.788
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Jumps,1,3
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Exploration,1,18.842
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Numb_exploration_occurances,1,48
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Percent_total_explore,1,1
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Floor,1,38.906
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Percent_total_floor,1,2.2
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Latency,2,6.64
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Jumps,2,2
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Exploration,2,9.074
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Numb_exploration_occurances,2,31
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Percent_total_explore,2,0.5
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Floor,2,1664.064
+Hyci_union6_exploratory,Historical,Union,49.7,6.4,Percent_total_floor,2,92.4
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Latency,1,6.089
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Jumps,1,5
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Exploration,1,46.48
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Numb_exploration_occurances,1,131
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Percent_total_explore,1,2.6
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Floor,1,5.939
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Percent_total_floor,1,0.3
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Latency,2,12.496
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Jumps,2,6
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Exploration,2,91.385
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Numb_exploration_occurances,2,300
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Percent_total_explore,2,5.1
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Floor,2,561.495
+Hyci_union7_exploratory,Historical,Union,45.1,6.8,Percent_total_floor,2,31.2
+Hyci_union8_exploratory,Historical,Union,55.8,9,Latency,1,20.27
+Hyci_union8_exploratory,Historical,Union,55.8,9,Jumps,1,17
+Hyci_union8_exploratory,Historical,Union,55.8,9,Exploration,1,96.282
+Hyci_union8_exploratory,Historical,Union,55.8,9,Numb_exploration_occurances,1,297
+Hyci_union8_exploratory,Historical,Union,55.8,9,Percent_total_explore,1,5.3
+Hyci_union8_exploratory,Historical,Union,55.8,9,Floor,1,231.031
+Hyci_union8_exploratory,Historical,Union,55.8,9,Percent_total_floor,1,12.8
+Hyci_union8_exploratory,Historical,Union,55.8,9,Latency,2,6.323
+Hyci_union8_exploratory,Historical,Union,55.8,9,Jumps,2,9
+Hyci_union8_exploratory,Historical,Union,55.8,9,Exploration,2,142.028
+Hyci_union8_exploratory,Historical,Union,55.8,9,Numb_exploration_occurances,2,432
+Hyci_union8_exploratory,Historical,Union,55.8,9,Percent_total_explore,2,7.9
+Hyci_union8_exploratory,Historical,Union,55.8,9,Floor,2,79.947
+Hyci_union8_exploratory,Historical,Union,55.8,9,Percent_total_floor,2,4.4
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Latency,1,107.641
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Jumps,1,4
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Exploration,1,18.949
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Numb_exploration_occurances,1,60
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Percent_total_explore,1,1.1
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Floor,1,107.708
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Percent_total_floor,1,6
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Latency,2,6.973
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Jumps,2,6
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Exploration,2,58.19
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Numb_exploration_occurances,2,194
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Percent_total_explore,2,3.2
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Floor,2,362.112
+Hyci_union9_exploratory,Historical,Union,50.1,7.1,Percent_total_floor,2,20.1
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Latency,1,5.339
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Jumps,1,15
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Exploration,1,87.314
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Numb_exploration_occurances,1,255
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Percent_total_explore,1,4.9
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Floor,1,717.885
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Percent_total_floor,1,39.9
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Latency,2,1.935
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Jumps,2,13
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Exploration,2,104.033
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Numb_exploration_occurances,2,307
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Percent_total_explore,2,5.8
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Floor,2,767.032
+Hyci_union10_exploratory,Historical,Union,51.1,7.3,Percent_total_floor,2,42.6
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Latency,1,35.435
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Jumps,1,3
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Exploration,1,58.653
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Numb_exploration_occurances,1,149
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Percent_total_explore,1,3.3
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Floor,1,569.318
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Percent_total_floor,1,31.6
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Latency,2,1.935
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Jumps,2,0
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Exploration,2,84.496
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Numb_exploration_occurances,2,217
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Percent_total_explore,2,4.7
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Floor,2,1358.973
+Hyci_carl1_exploratory ,Historical,Carlisle,54.9,10.2,Percent_total_floor,2,75.5
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Latency,1,52.586
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Jumps,1,1
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Exploration,1,15.282
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Numb_exploration_occurances,1,39
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Percent_total_explore,1,0.8
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Floor,1,117.117
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Percent_total_floor,1,6.5
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Latency,2,62.996
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Jumps,2,2
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Exploration,2,60.828
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Numb_exploration_occurances,2,196
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Percent_total_explore,2,3.4
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Floor,2,1358.957
+Hyci_carl2_exploratory ,Historical,Carlisle,47.8,6.9,Percent_total_floor,2,75.5
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Latency,1,30.364
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Jumps,1,3
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Exploration,1,44.313
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Numb_exploration_occurances,1,137
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Percent_total_explore,1,2.5
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Floor,1,300.015
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Percent_total_floor,1,16.7
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Latency,2,45.863
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Jumps,2,2
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Exploration,2,21.365
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Numb_exploration_occurances,2,69
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Percent_total_explore,2,1.2
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Floor,2,63.164
+Hyci_carl3_exploratory ,Historical,Carlisle,56.1,9.6,Percent_total_floor,2,3.5
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Latency,1,549.015
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Jumps,1,0
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Exploration,1,0.534
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Numb_exploration_occurances,1,1
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Percent_total_explore,1,0
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Floor,1,1800
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Percent_total_floor,1,100
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Latency,2,38.973
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Jumps,2,8
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Exploration,2,46.932
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Numb_exploration_occurances,2,130
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Percent_total_explore,2,2.6
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Floor,2,558.09
+Hyci_carl5_exploratory ,Historical,Carlisle,51.2,7.7,Percent_total_floor,2,31
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Latency,1,103.787
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Jumps,1,1
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Exploration,1,73.695
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Numb_exploration_occurances,1,293
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Percent_total_explore,1,4.1
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Floor,1,842.326
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Percent_total_floor,1,46.8
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Latency,2,180.798
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Jumps,2,0
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Exploration,2,9.457
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Numb_exploration_occurances,2,34
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Percent_total_explore,2,0.5
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Floor,2,354.387
+Hyci_carl6_exploratory ,Historical,Carlisle,50,6.8,Percent_total_floor,2,19.7
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Latency,1,53.72
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Jumps,1,3
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Exploration,1,8.509
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Numb_exploration_occurances,1,47
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Percent_total_explore,1,0.5
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Floor,1,92.092
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Percent_total_floor,1,5.1
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Latency,2,2.002
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Jumps,2,0
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Exploration,2,9.239
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Numb_exploration_occurances,2,45
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Percent_total_explore,2,0.5
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Floor,2,167.734
+Hyci_carl7_exploratory ,Historical,Carlisle,50,6.5,Percent_total_floor,2,9.1
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Latency,1,6.423
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Jumps,1,2
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Exploration,1,6.274
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Numb_exploration_occurances,1,27
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Percent_total_explore,1,0.3
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Floor,1,260.777
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Percent_total_floor,1,14.5
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Latency,2,49.767
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Jumps,2,0
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Exploration,2,0.4
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Numb_exploration_occurances,2,2
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Percent_total_explore,2,0
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Floor,2,1800
+Hyci_carl8_exploratory ,Historical,Carlisle,48.6,5.8,Percent_total_floor,2,100
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Latency,1,40.89
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Jumps,1,0
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Exploration,1,0.801
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Numb_exploration_occurances,1,3
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Percent_total_explore,1,0
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Floor,1,1800
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Percent_total_floor,1,100
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Latency,2,113.53
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Jumps,2,2
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Exploration,2,23.122
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Numb_exploration_occurances,2,89
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Percent_total_explore,2,1.3
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Floor,2,301.468
+Hyci_carl9_exploratory ,Historical,Carlisle,51.9,6.6,Percent_total_floor,2,16.7
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Latency,1,5.188
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Jumps,1,5
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Exploration,1,18.35
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Numb_exploration_occurances,1,69
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Percent_total_explore,1,1
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Floor,1,54.087
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Percent_total_floor,1,3
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Latency,2,2.319
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Jumps,2,2
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Exploration,2,7.255
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Numb_exploration_occurances,2,26
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Percent_total_explore,2,0.4
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Floor,2,1534.935
+Hyci_carl10_exploratory ,Historical,Carlisle,51.2,7.1,Percent_total_floor,2,85.3
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Latency,1,6.691
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Jumps,1,11
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Exploration,1,47.945
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Numb_exploration_occurances,1,161
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Percent_total_explore,1,2.7
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Floor,1,251.484
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Percent_total_floor,1,14
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Latency,2,19.954
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Jumps,2,6
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Exploration,2,19.935
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Numb_exploration_occurances,2,77
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Percent_total_explore,2,1.1
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Floor,2,23.373
+Hyci_van1_exploratory ,Expanded,Vanderburgh,44.8,4.7,Percent_total_floor,2,1.3
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Latency,1,146.981
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Jumps,1,11
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Exploration,1,113.414
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Numb_exploration_occurances,1,318
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Percent_total_explore,1,6.3
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Floor,1,540.155
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Percent_total_floor,1,30
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Latency,2,283.299
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Jumps,2,11
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Exploration,2,70.263
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Numb_exploration_occurances,2,174
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Percent_total_explore,2,3.9
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Floor,2,946.663
+Hyci_van2_exploratory ,Expanded,Vanderburgh,55.5,10.4,Percent_total_floor,2,52.6
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Latency,1,3.721
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Jumps,1,8
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Exploration,1,78.323
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Numb_exploration_occurances,1,213
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Percent_total_explore,1,4.4
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Floor,1,918.735
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Percent_total_floor,1,51
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Latency,2,4.188
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Jumps,2,9
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Exploration,2,81.491
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Numb_exploration_occurances,2,238
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Percent_total_explore,2,4.5
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Floor,2,921.67
+Hyci_van3_exploratory ,Expanded,Vanderburgh,41.2,3.9,Percent_total_floor,2,51.2
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Latency,1,44.061
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Jumps,1,8
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Exploration,1,69.839
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Numb_exploration_occurances,1,212
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Percent_total_explore,1,3.9
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Floor,1,255.289
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Percent_total_floor,1,14.2
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Latency,2,69.903
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Jumps,2,11
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Exploration,2,134.708
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Numb_exploration_occurances,2,326
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Percent_total_explore,2,7.5
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Floor,2,419.586
+Hyci_van4_exploratory ,Expanded,Vanderburgh,48.8,6.8,Percent_total_floor,2,23.3
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Latency,1,5.589
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Jumps,1,15
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Exploration,1,114.373
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Numb_exploration_occurances,1,317
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Percent_total_explore,1,6.4
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Floor,1,213.262
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Percent_total_floor,1,11.8
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Latency,2,5.822
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Jumps,2,4
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Exploration,2,89.357
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Numb_exploration_occurances,2,270
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Percent_total_explore,2,5
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Floor,2,568.201
+Hyci_van5_exploratory ,Expanded,Vanderburgh,48.9,7.7,Percent_total_floor,2,31.5
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Latency,1,4.938
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Jumps,1,17
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Exploration,1,66.489
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Numb_exploration_occurances,1,144
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Percent_total_explore,1,3.7
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Floor,1,319.051
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Percent_total_floor,1,17.7
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Latency,2,3.887
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Jumps,2,22
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Exploration,2,107.924
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Numb_exploration_occurances,2,230
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Percent_total_explore,2,6
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Floor,2,887.304
+Hyci_van6_exploratory ,Expanded,Vanderburgh,46.3,5.7,Percent_total_floor,2,49.3
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Latency,1,4.638
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Jumps,1,23
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Exploration,1,139.02
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Numb_exploration_occurances,1,358
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Percent_total_explore,1,7.7
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Floor,1,245.678
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Percent_total_floor,1,13.6
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Latency,2,5.772
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Jumps,2,65
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Exploration,2,350.638
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Numb_exploration_occurances,2,268
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Percent_total_explore,2,19.5
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Floor,2,256.573
+Hyci_van7_exploratory ,Expanded,Vanderburgh,49.9,7.6,Percent_total_floor,2,14.3
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Latency,1,8.492
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Jumps,1,13
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Exploration,1,144.682
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Numb_exploration_occurances,1,294
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Percent_total_explore,1,8
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Floor,1,54.254
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Percent_total_floor,1,3
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Latency,2,61.612
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Jumps,2,23
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Exploration,2,91.012
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Numb_exploration_occurances,2,245
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Percent_total_explore,2,5.1
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Floor,2,587.287
+Hyci_van8_exploratory ,Expanded,Vanderburgh,55.8,9.7,Percent_total_floor,2,32.6
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Latency,1,83.3
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Jumps,1,23
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Exploration,1,209.617
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Numb_exploration_occurances,1,562
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Percent_total_explore,1,11.6
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Floor,1,133.602
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Percent_total_floor,1,7.4
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Latency,2,0.384
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Jumps,2,5
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Exploration,2,136.053
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Numb_exploration_occurances,2,449
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Percent_total_explore,2,7.6
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Floor,2,28.929
+Hyci_van9_exploratory ,Expanded,Vanderburgh,47.7,7.4,Percent_total_floor,2,1.6
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Latency,1,53.536
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Jumps,1,5
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Exploration,1,114.873
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Numb_exploration_occurances,1,407
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Percent_total_explore,1,6.4
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Floor,1,235.217
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Percent_total_floor,1,13.1
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Latency,2,8.008
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Jumps,2,0
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Exploration,2,78.067
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Numb_exploration_occurances,2,249
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Percent_total_explore,2,4.3
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Floor,2,1245.68
+Hyci_van10_exploratory ,Expanded,Vanderburgh,55.7,11.5,Percent_total_floor,2,69.2
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Latency,1,972.722
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Jumps,1,1
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Exploration,1,43.743
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Numb_exploration_occurances,1,99
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Percent_total_explore,1,2.4
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Floor,1,1213.78
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Percent_total_floor,1,67.4
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Latency,2,100.417
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Jumps,2,10
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Exploration,2,95.754
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Numb_exploration_occurances,2,329
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Percent_total_explore,2,5.3
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Floor,2,100.534
+Hyci_van11_exploratory ,Expanded,Vanderburgh,47.6,6.8,Percent_total_floor,2,5.6
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Latency,1,10.861
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Jumps,1,7
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Exploration,1,20.203
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Numb_exploration_occurances,1,50
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Percent_total_explore,1,1.1
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Floor,1,105.122
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Percent_total_floor,1,5.8
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Latency,2,6.573
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Jumps,2,5
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Exploration,2,59.97
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Numb_exploration_occurances,2,167
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Percent_total_explore,2,3.3
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Floor,2,434.618
+Hyci_van12_exploratory ,Expanded,Vanderburgh,57.6,11.7,Percent_total_floor,2,24.1
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Latency,1,8.759
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Jumps,1,6
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Exploration,1,74.255
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Numb_exploration_occurances,1,212
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Percent_total_explore,1,4.1
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Floor,1,596.031
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Percent_total_floor,1,33.1
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Latency,2,5.072
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Jumps,2,9
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Exploration,2,117.993
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Numb_exploration_occurances,2,258
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Percent_total_explore,2,6.6
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Floor,2,819.985
+Hyci_hop1_exploratory ,Expanded,Hopkins,46.2,4.9,Percent_total_floor,2,45.6
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Latency,1,109.243
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Jumps,1,13
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Exploration,1,149.637
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Numb_exploration_occurances,1,391
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Percent_total_explore,1,8.3
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Floor,1,473.423
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Percent_total_floor,1,26.3
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Latency,2,74.29
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Jumps,2,12
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Exploration,2,115.632
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Numb_exploration_occurances,2,329
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Percent_total_explore,2,6.4
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Floor,2,162.713
+Hyci_hop2_exploratory ,Expanded,Hopkins,47.6,5.6,Percent_total_floor,2,9
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Latency,1,39.389
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Jumps,1,15
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Exploration,1,53.483
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Numb_exploration_occurances,1,173
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Percent_total_explore,1,3
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Floor,1,1011.178
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Percent_total_floor,1,56.2
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Latency,2,1.001
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Jumps,2,16
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Exploration,2,120.569
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Numb_exploration_occurances,2,381
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Percent_total_explore,2,6.7
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Floor,2,521.79
+Hyci_hop3_exploratory ,Expanded,Hopkins,50.4,7,Percent_total_floor,2,29
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Latency,1,203.503
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Jumps,1,3
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Exploration,1,45.258
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Numb_exploration_occurances,1,105
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Percent_total_explore,1,2.5
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Floor,1,1359.41
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Percent_total_floor,1,75.5
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Latency,2,93.31
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Jumps,2,5
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Exploration,2,180.395
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Numb_exploration_occurances,2,370
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Percent_total_explore,2,10
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Floor,2,314.548
+Hyci_hop4_exploratory ,Expanded,Hopkins,45.5,5.4,Percent_total_floor,2,17.5
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Latency,1,58.008
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Jumps,1,1
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Exploration,1,0.35
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Numb_exploration_occurances,1,1
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Percent_total_explore,1,0
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Floor,1,1800
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Percent_total_floor,1,100
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Latency,2,758.775
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Jumps,2,3
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Exploration,2,54.062
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Numb_exploration_occurances,2,159
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Percent_total_explore,2,3
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Floor,2,1063.745
+Hyci_hop5_exploratory ,Expanded,Hopkins,45.1,4.5,Percent_total_floor,2,59.1
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Latency,1,88.538
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Jumps,1,10
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Exploration,1,112.51
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Numb_exploration_occurances,1,391
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Percent_total_explore,1,6.3
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Floor,1,88.939
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Percent_total_floor,1,4.9
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Latency,2,5.439
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Jumps,2,1
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Exploration,2,0.751
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Numb_exploration_occurances,2,3
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Percent_total_explore,2,0
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Floor,2,5.438
+Hyci_hop6_exploratory ,Expanded,Hopkins,47.8,5.1,Percent_total_floor,2,0.3
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Latency,1,320.838
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Jumps,1,1
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Exploration,1,8.827
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Numb_exploration_occurances,1,19
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Percent_total_explore,1,0.5
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Floor,1,676.226
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Percent_total_floor,1,37.6
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Latency,2,74.808
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Jumps,2,12
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Exploration,2,102.778
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Numb_exploration_occurances,2,327
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Percent_total_explore,2,5.7
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Floor,2,399.448
+Hyci_hop7_exploratory ,Expanded,Hopkins,47.7,5.4,Percent_total_floor,2,22.2
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Latency,1,6.49
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Jumps,1,5
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Exploration,1,122.133
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Numb_exploration_occurances,1,321
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Percent_total_explore,1,6.8
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Floor,1,227.395
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Percent_total_floor,1,12.6
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Latency,2,55.856
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Jumps,2,0
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Exploration,2,1.985
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Numb_exploration_occurances,2,3
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Percent_total_explore,2,0.1
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Floor,2,1800
+Hyci_hop8_exploratory ,Expanded,Hopkins,48.7,6,Percent_total_floor,2,100
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Latency,1,53.453
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Jumps,1,6
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Exploration,1,261.108
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Numb_exploration_occurances,1,488
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Percent_total_explore,1,14.5
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Floor,1,201.785
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Percent_total_floor,1,11.2
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Latency,2,15.332
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Jumps,2,2
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Exploration,2,115.411
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Numb_exploration_occurances,2,302
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Percent_total_explore,2,6.4
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Floor,2,422.741
+Hyci_hop9_exploratory ,Expanded,Hopkins,48.1,5.3,Percent_total_floor,2,23.5
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Latency,1,120.237
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Jumps,1,14
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Exploration,1,109.744
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Numb_exploration_occurances,1,278
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Percent_total_explore,1,6.1
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Floor,1,238.104
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Percent_total_floor,1,13.2
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Latency,2,123.423
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Jumps,2,9
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Exploration,2,177.165
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Numb_exploration_occurances,2,396
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Percent_total_explore,2,9.8
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Floor,2,188.938
+Hyci_hop10_exploratory ,Expanded,Hopkins,52.6,7.9,Percent_total_floor,2,10.5
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Latency,1,26.093
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Jumps,1,13
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Exploration,1,143.728
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Numb_exploration_occurances,1,353
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Percent_total_explore,1,8
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Floor,1,110.427
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Percent_total_floor,1,6.1
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Latency,2,81.698
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Jumps,2,6
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Exploration,2,75.632
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Numb_exploration_occurances,2,176
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Percent_total_explore,2,4.2
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Floor,2,82.148
+Hyci_craw1_exploratory ,Expanded,Crawford,48.8,6.2,Percent_total_floor,2,4.6
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Latency,1,54.521
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Jumps,1,3
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Exploration,1,286.435
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Numb_exploration_occurances,1,102
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Percent_total_explore,1,15.9
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Floor,1,677.61
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Percent_total_floor,1,37.6
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Latency,2,23.123
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Jumps,2,4
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Exploration,2,289.052
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Numb_exploration_occurances,2,538
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Percent_total_explore,2,16.1
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Floor,2,78.645
+Hyci_craw2_exploratory ,Expanded,Crawford,48.1,5.9,Percent_total_floor,2,4.4
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Latency,1,7.174
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Jumps,1,2
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Exploration,1,24.104
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Numb_exploration_occurances,1,36
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Percent_total_explore,1,1.3
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Floor,1,590.425
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Percent_total_floor,1,32.8
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Latency,2,1.802
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Jumps,2,1
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Exploration,2,56.907
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Numb_exploration_occurances,2,61
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Percent_total_explore,2,3.2
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Floor,2,1350.751
+Hyci_craw3_exploratory ,Expanded,Crawford,49.4,6.8,Percent_total_floor,2,75
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Latency,1,2.819
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Jumps,1,8
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Exploration,1,204.762
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Numb_exploration_occurances,1,359
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Percent_total_explore,1,11.4
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Floor,1,72.106
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Percent_total_floor,1,4
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Latency,2,4.271
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Jumps,2,7
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Exploration,2,141.91
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Numb_exploration_occurances,2,409
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Percent_total_explore,2,7.9
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Floor,2,33.683
+Hyci_craw4_exploratory ,Expanded,Crawford,45,6.4,Percent_total_floor,2,1.9
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Latency,1,7.541
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Jumps,1,8
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Exploration,1,90.758
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Numb_exploration_occurances,1,238
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Percent_total_explore,1,5
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Floor,1,7.457
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Percent_total_floor,1,0.4
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Latency,2,1.035
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Jumps,2,16
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Exploration,2,81.805
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Numb_exploration_occurances,2,265
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Percent_total_explore,2,4.5
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Floor,2,280.412
+Hyci_craw5_exploratory ,Expanded,Crawford,49.4,7.3,Percent_total_floor,2,15.6
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Latency,1,4.721
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Jumps,1,8
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Exploration,1,83.59
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Numb_exploration_occurances,1,248
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Percent_total_explore,1,4.6
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Floor,1,68.285
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Percent_total_floor,1,3.8
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Latency,2,24.841
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Jumps,2,5
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Exploration,2,71.74
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Numb_exploration_occurances,2,195
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Percent_total_explore,2,4
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Floor,2,167.366
+Hyci_craw6_exploratory ,Expanded,Crawford,50.4,6.7,Percent_total_floor,2,9.3
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Latency,1,37.371
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Jumps,1,19
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Exploration,1,139.777
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Numb_exploration_occurances,1,345
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Percent_total_explore,1,7.8
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Floor,1,959.543
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Percent_total_floor,1,53.3
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Latency,2,13.196
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Jumps,2,2
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Exploration,2,40.743
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Numb_exploration_occurances,2,139
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Percent_total_explore,2,2.3
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Floor,2,13.363
+Hyci_craw7_exploratory ,Expanded,Crawford,50.7,7,Percent_total_floor,2,0.7
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Latency,1,2.553
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Jumps,1,1
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Exploration,1,0.6
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Numb_exploration_occurances,1,3
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Percent_total_explore,1,0
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Floor,1,218.469
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Percent_total_floor,1,12.1
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Latency,2,49.566
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Jumps,2,7
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Exploration,2,111.824
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Numb_exploration_occurances,2,234
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Percent_total_explore,2,6.2
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Floor,2,49.65
+Hyci_craw8_exploratory ,Expanded,Crawford,50.5,7.3,Percent_total_floor,2,2.8
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Latency,1,49.065
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Jumps,1,21
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Exploration,1,259.638
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Numb_exploration_occurances,1,270
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Percent_total_explore,1,8.9
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Floor,1,413.099
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Percent_total_floor,1,22.9
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Latency,2,78.846
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Jumps,2,5
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Exploration,2,55.773
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Numb_exploration_occurances,2,110
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Percent_total_explore,2,31
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Floor,2,79.163
+Hyci_craw9_exploratory ,Expanded,Crawford,49.6,6.2,Percent_total_floor,2,4.4
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Latency,1,21.922
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Jumps,1,7
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Exploration,1,79.225
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Numb_exploration_occurances,1,151
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Percent_total_explore,1,4.4
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Floor,1,764.066
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Percent_total_floor,1,42.4
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Latency,2,47.865
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Jumps,2,3
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Exploration,2,39.942
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Numb_exploration_occurances,2,79
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Percent_total_explore,2,2.2
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Floor,2,183
+Hyci_craw10_exploratory ,Expanded,Crawford,52.6,7,Percent_total_floor,2,10.2
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Latency,1,0.75
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Jumps,1,2
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Exploration,1,75.394
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Numb_exploration_occurances,1,195
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Percent_total_explore,1,4.2
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Floor,1,1534.733
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Percent_total_floor,1,85.3
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Latency,2,190.307
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Jumps,2,5
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Exploration,2,122.147
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Numb_exploration_occurances,2,293
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Percent_total_explore,2,6.8
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Floor,2,869.437
+Hyci_web1_exploratory ,Expanded,Webster,47.5,6.5,Percent_total_floor,2,48.3
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Latency,1,51.118
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Jumps,1,8
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Exploration,1,90.688
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Numb_exploration_occurances,1,232
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Percent_total_explore,1,5
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Floor,1,113.28
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Percent_total_floor,1,6.3
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Latency,2,46.112
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Jumps,2,8
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Exploration,2,103.24
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Numb_exploration_occurances,2,261
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Percent_total_explore,2,5.7
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Floor,2,300.183
+Hyci_web2_exploratory ,Expanded,Webster,53.6,9,Percent_total_floor,2,16.7
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Latency,1,0.05
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Jumps,1,13
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Exploration,1,108.868
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Numb_exploration_occurances,1,277
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Percent_total_explore,1,6
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Floor,1,278.245
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Percent_total_floor,1,15.5
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Latency,2,24.107
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Jumps,2,5
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Exploration,2,153.978
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Numb_exploration_occurances,2,409
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Percent_total_explore,2,8.6
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Floor,2,122.673
+Hyci_web3_exploratory ,Expanded,Webster,51.4,7,Percent_total_floor,2,6.8
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Latency,1,106.573
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Jumps,1,3
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Exploration,1,81.198
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Numb_exploration_occurances,1,239
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Percent_total_explore,1,4.5
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Floor,1,624.223
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Percent_total_floor,1,34.7
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Latency,2,26.41
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Jumps,2,1
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Exploration,2,95.322
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Numb_exploration_occurances,2,244
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Percent_total_explore,2,5.3
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Floor,2,365.949
+Hyci_web4_exploratory ,Expanded,Webster,51.5,7.4,Percent_total_floor,2,20.3
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Latency,1,89.122
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Jumps,1,11
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Exploration,1,109.201
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Numb_exploration_occurances,1,300
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Percent_total_explore,1,6.1
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Floor,1,163.364
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Percent_total_floor,1,9.1
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Latency,2,4.121
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Jumps,2,5
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Exploration,2,85.405
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Numb_exploration_occurances,2,241
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Percent_total_explore,2,4.7
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Floor,2,101.418
+Hyci_web5_exploratory ,Expanded,Webster,53.5,8.7,Percent_total_floor,2,5.6
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Latency,1,49.233
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Jumps,1,0
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Exploration,1,10.496
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Numb_exploration_occurances,1,24
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Percent_total_explore,1,0.6
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Floor,1,1800
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Percent_total_floor,1,100
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Latency,2,79.129
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Jumps,2,7
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Exploration,2,150.249
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Numb_exploration_occurances,2,373
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Percent_total_explore,2,8.3
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Floor,2,404.902
+Hyci_web6_exploratory ,Expanded,Webster,53,8.7,Percent_total_floor,2,22.5
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Latency,1,1800
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Jumps,1,0
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Exploration,1,0
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Numb_exploration_occurances,1,0
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Percent_total_explore,1,0
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Floor,1,1800
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Percent_total_floor,1,100
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Latency,2,761.695
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Jumps,2,0
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Exploration,2,2.921
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Numb_exploration_occurances,2,11
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Percent_total_explore,2,0.2
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Floor,2,1800
+Hyci_web7_exploratory ,Expanded,Webster,52.6,8.6,Percent_total_floor,2,100
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Latency,1,47.547
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Jumps,1,1
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Exploration,1,1.519
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Numb_exploration_occurances,1,4
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Percent_total_explore,1,0.1
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Floor,1,108.876
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Percent_total_floor,1,6
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Latency,2,57.641
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Jumps,2,4
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Exploration,2,138.428
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Numb_exploration_occurances,2,368
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Percent_total_explore,2,7.7
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Floor,2,538.554
+Hyci_web8_exploratory ,Expanded,Webster,58.5,12,Percent_total_floor,2,29.9
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Latency,1,56.356
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Jumps,1,6
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Exploration,1,17.616
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Numb_exploration_occurances,1,72
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Percent_total_explore,1,1
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Floor,1,56.406
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Percent_total_floor,1,3.1
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Latency,2,141.208
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Jumps,2,4
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Exploration,2,55.222
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Numb_exploration_occurances,2,156
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Percent_total_explore,2,3.1
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Floor,2,933.234
+Hyci_web9_exploratory ,Expanded,Webster,47.6,5.5,Percent_total_floor,2,51.8
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Latency,1,6.64
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Jumps,1,14
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Exploration,1,80.904
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Numb_exploration_occurances,1,246
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Percent_total_explore,1,4.5
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Floor,1,898.315
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Percent_total_floor,1,49.9
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Latency,2,43.978
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Jumps,2,12
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Exploration,2,140.609
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Numb_exploration_occurances,2,446
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Percent_total_explore,2,7.8
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Floor,2,47.398
+Hyci_web10_exploratory ,Expanded,Webster,49.5,6.5,Percent_total_floor,2,2.6
