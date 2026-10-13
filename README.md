@@ -39,11 +39,14 @@ Paper currently in review, will be updated later
 
 ## Data files
 
+### gtf_behavior_master_sheet.csv 
+Contains all meta data associated with trials and field collection
+
 ### acoustic_results.csv
 
 Contains the results of the acoustic playback experiment. Each observation represents an individual frog and includes the proportion of aggressive calls produced during playback trials.
 
-### All_traits.csv
+### all_traits.csv
 
 Contains summarized behavioral trait data for each individual used in repeatability analyses, correlation analyses, and comparisons between historical and expanded populations.
 
@@ -85,7 +88,7 @@ Generates most figures presented in the manuscript using the processed data and 
 
 ## Software
 
-Analyses were conducted in R.
+Analyses were conducted in R version 4.5.2 (R Core Team 2024)
 
 
 ---

@@ -1,0 +1,11 @@
+# R specific temporary files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore everything inside outputs/figures/
+outputs/figures/*
+
+# But do not ignore the .gitignore or placeholder inside the figures folder itself
+!outputs/figures/.gitkeep
