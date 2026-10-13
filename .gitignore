@@ -9,3 +9,5 @@ outputs/figures/*
 
 # But do not ignore the .gitignore or placeholder inside the figures folder itself
 !outputs/figures/.gitkeep
+
+.DS_Store
