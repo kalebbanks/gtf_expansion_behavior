@@ -1,6 +1,6 @@
 # Behavioral divergence during rapid range expansion of a native amphibian
 
-Owen M. Edwards1*, Kaleb Banks2, Julia Fellows1, Bo Zhang2, Michael S. Reichert2
+Authors: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 ## Overview
 
