@@ -109,4 +109,4 @@ Analyses were conducted in R version 4.5.2 (R Core Team 2024)
 
 ## Contact
 
-For questions regarding the data or analyses, please contact Owen M. Edwards (owenedwards@ou.edu)
+For questions regarding the data or analyses, please contact XXXXXXXXXXXXXXXXXXX
